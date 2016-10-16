@@ -2,6 +2,8 @@ package main
 
 import "github.com/andlabs/ui"
 
+// https://github.com/andlabs/ui
+
 func main() {
 	err := ui.Main(func() {
 		name := ui.NewEntry()
